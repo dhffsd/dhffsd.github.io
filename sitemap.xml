@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wushen3508.top/posts/d0a2fdbb.html</loc>
+    
+    <lastmod>2025-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wushen3508.top/posts/f7ede91d.html</loc>
+    
+    <lastmod>2025-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.wushen3508.top/posts/ee9b1733.html</loc>
     
     <lastmod>2025-03-02</lastmod>
@@ -94,7 +112,7 @@
 
   <url>
     <loc>http://www.wushen3508.top/</loc>
-    <lastmod>2025-03-02</lastmod>
+    <lastmod>2025-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,7 +120,14 @@
   
   <url>
     <loc>http://www.wushen3508.top/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2025-03-02</lastmod>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wushen3508.top/tags/Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
